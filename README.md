@@ -12,7 +12,15 @@ TODO
 
 ## Usage
 
-TODO
+Once installed, you can use by simply invoking `cloudytabs-server`. By default the server will then be available at `http://0.0.0.0:8181`, however you can customise this by setting the port in the environment variable `CLOUDYTABS_LOCAL_PORT`. For example:
+
+    CLOUDYTABS_LOCAL_PORT=3333 cloudytabs-server
+
+### Local development:
+
+Clone the repository and run:
+
+    swift build && swift run
 
 ### API Documentation
 
