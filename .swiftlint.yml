@@ -1,0 +1,8 @@
+included:
+  - Sources
+disabled_rules:
+  - syntactic_sugar
+  - trailing_comma
+  - line_length
+  - force_cast # TODO: re-enable
+  - force_try # TODO: re-enable
