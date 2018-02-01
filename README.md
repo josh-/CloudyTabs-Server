@@ -8,9 +8,12 @@ It was inspired by [@erikcw](https://github.com/erikcw) who discussed this idea 
 
 ## Installation
 
-_Homebrew installation instructions coming soon._
+Using [Homebrew](https://brew.sh):
 
-Currently, you can clone this repo and follow the instructions in [Local development](#local-development).
+```sh
+$ brew tap josh-/cloudytabs-server
+$ brew install --HEAD cloudytabs-server
+```
 
 ## Usage
 
