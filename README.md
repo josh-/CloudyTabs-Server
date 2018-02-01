@@ -8,7 +8,9 @@ It was inspired by [@erikcw](https://github.com/erikcw) who discussed this idea 
 
 ## Installation
 
-TODO
+_Homebrew installation instructions coming soon._
+
+Currently, you can clone this repo and follow the instructions in [Local development](#Local-development).
 
 ## Usage
 
