@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-CZlib-src.git",
         "state": {
           "branch": null,
-          "revision": "2002034d47e9d57a695fb33ad2e09f136868b406",
-          "version": "0.0.3"
+          "revision": "b63e46909aad937c6434766f8f8c6720d8f3bd05",
+          "version": "0.0.4"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Crypto.git",
         "state": {
           "branch": null,
-          "revision": "a440ab1dd8d3d87103312f1328bfb1648e7045e3",
-          "version": "3.0.2"
+          "revision": "a0565cd234faee0167f5f0540ad71516efc11a0b",
+          "version": "3.0.3"
         }
       },
       {
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-HTTP.git",
         "state": {
           "branch": null,
-          "revision": "118f8c1917fc2d5cfec614cabbf04434a30e374f",
-          "version": "3.0.5"
+          "revision": "f7435c3069c6141ccb86fed397200577fa3c94f8",
+          "version": "3.0.6"
         }
       },
       {
