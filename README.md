@@ -21,6 +21,8 @@ Once installed, you can use by simply invoking `cloudytabs-server`. By default t
 
     CLOUDYTABS_LOCAL_PORT=3333 cloudytabs-server
 
+`cloudytabs-server` can be configured to launch in the background on startup by creating a [launchd job](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html).
+
 ### Local development:
 
 Clone the repository and run:
